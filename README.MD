@@ -21,3 +21,5 @@
 5. Comprobar si es una tarjeta valida y regresar el resultado a usuario}
 
 ## Diagrama de flujo
+
+![alt text](https://github.com/DayraAlvarez/tarjetavalida/blob/master/assets/Diagrama%20en%20blanco.png)
